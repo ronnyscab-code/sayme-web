@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sayme.cl/sitemap.xml
