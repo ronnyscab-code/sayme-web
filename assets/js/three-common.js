@@ -101,7 +101,7 @@ window.SAYME3D = (function () {
     function resize() {
       var w = canvas.clientWidth, h = canvas.clientHeight; if (!w || !h) return;
       T.renderer.setSize(w, h, false); T.camera.aspect = w / h; T.camera.updateProjectionMatrix();
-      var L = w > 560 ? (o.wide || { x: 0, y: 0, s: 1 }) : (o.narrow || o.wide || { x: 0, y: 0, s: .7 });
+      var L = w > (o.bp || 560) ? (o.wide || { x: 0, y: 0, s: 1 }) : (o.narrow || o.wide || { x: 0, y: 0, s: .7 });
       root.scale.setScalar(L.s); root.position.set(L.x, L.y, 0);
     }
     addEventListener('resize', resize); resize();
