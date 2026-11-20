@@ -22,6 +22,6 @@ window.SAYME_CONFIG = {
      [DATO POR CONFIRMAR] cuando la página tenga su dirección corta, cámbiala (ej. https://www.linkedin.com/company/sayme-ltda/) */
   linkedinUrl: 'https://www.linkedin.com/company/145458774/',
 
-  /* Opcional: portada de la ventana (ruta a una imagen, ej. 'assets/img/linkedin-portada.jpg'). Vacío = fondo azul de marca. */
-  linkedinPortada: ''
+  /* Opcional: portada de la ventana (ruta a una imagen, ej. 'assets/img/linkedin-portada.jpg'). Vacío = fondo azul de marca. Formato 4:1 (1584x396). */
+  linkedinPortada: 'assets/img/linkedin-portada.jpg'
 };

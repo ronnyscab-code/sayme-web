@@ -18,7 +18,7 @@
     '@keyframes li-in{from{opacity:0}to{opacity:1}}' +
     '.li-card{position:relative;width:100%;max-width:560px;max-height:calc(100vh - 40px);overflow:auto;background:#fff;border-radius:14px;box-shadow:0 30px 70px -20px rgba(0,0,0,.55);color:#14263f;font-family:Barlow,system-ui,sans-serif;animation:li-up .26s ease-out}' +
     '@keyframes li-up{from{transform:translateY(14px)}to{transform:none}}' +
-    '.li-cover{height:130px;background:linear-gradient(120deg,#14263f 0%,#1f3a5f 45%,#0f9688 100%);background-size:cover;background-position:center;position:relative;overflow:hidden;border-radius:14px 14px 0 0}' +
+    '.li-cover{aspect-ratio:4/1;min-height:110px;background:linear-gradient(120deg,#14263f 0%,#1f3a5f 45%,#0f9688 100%);background-size:cover;background-position:center;position:relative;overflow:hidden;border-radius:14px 14px 0 0}' +
     '.li-cover svg{position:absolute;inset:0;width:100%;height:100%;opacity:.35}' +
     '.li-x{position:absolute;top:10px;right:10px;width:36px;height:36px;border-radius:50%;border:0;background:rgba(255,255,255,.92);color:#14263f;font-size:1.35rem;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;z-index:2}' +
     '.li-x:hover{background:#fff}' +
@@ -52,7 +52,7 @@
   ov.innerHTML = '' +
     '<div class="li-card">' +
       '<button type="button" class="li-x" aria-label="Cerrar">&times;</button>' +
-      '<div class="li-cover"' + (COVER ? ' style="background-image:url(' + COVER + ')"' : '') + '>' +
+      '<div class="li-cover"' + (COVER ? ' style="background-image:url(' + COVER + ')" role="img" aria-label="SAYME: conectamos y protegemos las operaciones que no pueden detenerse"' : '') + '>' +
         (COVER ? '' : '<svg viewBox="0 0 560 130" preserveAspectRatio="none" fill="none" stroke="#fff" stroke-width="1.2" aria-hidden="true"><path d="M-10 100C90 40 170 130 280 70S470 20 570 60"/><path d="M-10 118C100 64 180 140 290 88S480 40 570 82" opacity=".6"/><path d="M-10 82C80 22 160 112 270 52S460 2 570 42" opacity=".6"/></svg>') +
       '</div>' +
       '<div class="li-body">' +
