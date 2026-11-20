@@ -16,5 +16,12 @@ window.SAYME_CONFIG = {
   /* Servicio para recibir el formulario sin servidor propio.
      Ejemplo con Formspree: 'https://formspree.io/f/xxxxxxx'
      Si lo dejas vacío, el formulario abre el correo del visitante con el mensaje ya escrito. */
-  formEndpoint: ''
+  formEndpoint: '',
+
+  /* Página de empresa de SAYME en LinkedIn. El botón de la ventana de vista previa lleva a este enlace.
+     [DATO POR CONFIRMAR] cuando la página tenga su dirección corta, cámbiala (ej. https://www.linkedin.com/company/sayme-ltda/) */
+  linkedinUrl: 'https://www.linkedin.com/company/145458774/',
+
+  /* Opcional: portada de la ventana (ruta a una imagen, ej. 'assets/img/linkedin-portada.jpg'). Vacío = fondo azul de marca. */
+  linkedinPortada: ''
 };
