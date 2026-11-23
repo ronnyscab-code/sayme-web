@@ -33,7 +33,7 @@ html{scroll-behavior:smooth}
 body{background:var(--bg);color:var(--text);font-family:var(--f-body);font-size:1.05rem;line-height:1.6;-webkit-font-smoothing:antialiased}
 a{color:inherit}
 :focus-visible{outline:2px solid var(--accent);outline-offset:3px}
-.wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+.wrap{max-width:1600px;margin:0 auto;padding:0 clamp(20px,4vw,64px)}
 .mono{font-family:var(--f-mono);font-size:.74rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
 
 nav{position:absolute;top:0;left:0;right:0;z-index:5}
@@ -160,7 +160,29 @@ footer{padding:72px 0 56px}
 .wa-fab svg{width:28px;height:28px}
 .wa-fab::before{content:"";position:absolute;inset:0;border-radius:999px;border:2px solid var(--wa);animation:pulse 2.4s ease-out infinite;pointer-events:none}
 @keyframes pulse{0%{transform:scale(1);opacity:.7}100%{transform:scale(1.25);opacity:0}}
-.wa-fab{--wa:#25d366}@media(max-width:700px){.wa-fab span{display:none}.wa-fab{padding:13px}}</style>
+.wa-fab{--wa:#25d366}@media(max-width:700px){.wa-fab span{display:none}.wa-fab{padding:13px}}/* Banner a todo el ancho */
+.banner{position:relative;border-bottom:1px solid var(--line);background:var(--navy)}
+.bn-track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;scroll-behavior:smooth}
+.bn-track::-webkit-scrollbar{display:none}
+.bn-slide{position:relative;flex:0 0 100%;scroll-snap-align:start;height:clamp(340px,42vw,600px);display:flex;align-items:flex-end;overflow:hidden;color:#fff}
+.bn-slide>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+.bn-shade{position:absolute;inset:0;background:linear-gradient(90deg,rgba(14,29,50,.88) 0%,rgba(14,29,50,.55) 45%,rgba(14,29,50,0) 80%),linear-gradient(0deg,rgba(14,29,50,.55),rgba(14,29,50,0) 45%)}
+.bn-noimg{background:linear-gradient(120deg,var(--navy),#14504d)}
+.bn-text{position:relative;z-index:2;width:100%;padding-top:40px;padding-bottom:clamp(40px,6vw,72px);display:flex;flex-direction:column;align-items:flex-start;gap:12px}
+.bn-text .nbadge{background:var(--teal,#0f9688)}
+.bn-text h2{font-family:var(--f-display);font-weight:900;text-transform:uppercase;line-height:.95;font-size:clamp(2rem,5vw,4rem);max-width:16em;color:#fff;margin:0}
+.bn-text p{max-width:52ch;font-size:clamp(1rem,1.4vw,1.2rem);color:#e6edf3;margin:0}
+.bn-text .btn{margin-top:6px;color:var(--text)}
+.bn-nav{position:absolute;top:50%;transform:translateY(-50%);z-index:3;width:46px;height:46px;border:1px solid rgba(255,255,255,.5);background:rgba(14,29,50,.45);color:#fff;font-size:1.3rem;cursor:pointer;transition:background .2s}
+.bn-nav:hover{background:rgba(14,29,50,.8)}.bn-prev{left:clamp(10px,2vw,28px)}.bn-next{right:clamp(10px,2vw,28px)}
+.bn-dots{position:absolute;z-index:3;bottom:18px;left:0;right:0;display:flex;justify-content:center;gap:10px}
+.bn-dots button{width:34px;height:4px;border:0;padding:0;background:rgba(255,255,255,.4);cursor:pointer}
+.bn-dots button.on{background:#fff}
+@media (max-width:700px){.bn-nav{display:none}.bn-slide{height:420px}}
+@media (prefers-reduced-motion:reduce){.bn-track{scroll-behavior:auto}}
+
+.nbadge{font-family:var(--f-mono);font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;background:var(--navy);color:#fff;padding:3px 9px}
+</style>
 </head>
 <body>
 
@@ -199,12 +221,12 @@ footer{padding:72px 0 56px}
   </div>
 </header>
 
-<div class="strip wrap" style="padding:0">
-  <div><b>25+</b><span class="mono">años, desde 2001</span></div>
-  <div><b>250+</b><span class="mono">proyectos ejecutados</span></div>
-  <div><b>0</b><span class="mono">incumplimientos en seguridad laboral</span></div>
-  <div><b>3</b><span class="mono">tecnologías de red: cobre, OS2, OM3/OM4</span></div>
-</div>
+<!-- Banner de novedades (textos y fotos de EJEMPLO, para validar la visual) -->
+<section class="banner" id="banner" aria-roledescription="carrusel" aria-label="Novedades de SAYME"><div class="bn-track">
+<article class="bn-slide" aria-label="1 de 3"><img src="assets/img/home/img05.jpg" alt="Estación de telecomunicaciones"><div class="bn-shade"></div><div class="bn-text wrap"><span class="nbadge">Novedad</span><h2>Aquí van las novedades de SAYME</h2><p>Un espacio para compartir noticias, proyectos y avisos importantes.</p></div></article>
+<article class="bn-slide" aria-label="2 de 3"><img src="assets/img/home/img04.jpg" alt="Canalización de cables"><div class="bn-shade"></div><div class="bn-text wrap"><span class="nbadge">Equipo</span><h2>Conoce al equipo</h2><p>Aquí irá la foto del equipo y de las personas que hacen posible cada proyecto.</p></div></article>
+<article class="bn-slide" aria-label="3 de 3"><img src="assets/img/home/img03.jpg" alt="Cable de fibra óptica"><div class="bn-shade"></div><div class="bn-text wrap"><span class="nbadge">Dato curioso</span><h2>¿Sabías que?</h2><p>La fibra óptica transmite los datos como pulsos de luz.</p></div></article>
+</div><button class="bn-nav bn-prev" type="button" aria-label="Anterior">&larr;</button><button class="bn-nav bn-next" type="button" aria-label="Siguiente">&rarr;</button><div class="bn-dots"><button type="button" aria-label="Ir a la diapositiva 1"></button><button type="button" aria-label="Ir a la diapositiva 2"></button><button type="button" aria-label="Ir a la diapositiva 3"></button></div></section>
 
 <section class="blk" id="servicios">
   <div class="wrap">
@@ -323,6 +345,7 @@ footer{padding:72px 0 56px}
 <script src="assets/js/config.js"></script>
 <script src="assets/js/site.js"></script>
 <script src="assets/js/linkedin.js"></script>
+<script src="assets/js/banner.js"></script>
 
 <script src="assets/vendor/three.min.js"></script>
 <script>
