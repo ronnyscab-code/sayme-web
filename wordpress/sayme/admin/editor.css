@@ -1,0 +1,26 @@
+.sayme-mount { font-size: 13px; }
+.sayme-field { margin: 0 0 14px; }
+.sayme-field > label.sayme-lbl { display: block; font-weight: 600; margin-bottom: 4px; }
+.sayme-field .description { margin: 3px 0 0; color: #646970; }
+.sayme-field input[type=text], .sayme-field textarea, .sayme-field select { width: 100%; max-width: 100%; }
+.sayme-field textarea { font-family: inherit; line-height: 1.45; }
+.sayme-field textarea.sayme-raw { font-family: Consolas, monospace; font-size: 12px; }
+.sayme-group { border-left: 3px solid #c3c4c7; padding: 4px 0 0 12px; margin: 0 0 14px; }
+.sayme-group > .sayme-glbl { font-weight: 600; margin: 0 0 8px; color: #1d2327; }
+.sayme-rep { margin: 0 0 14px; }
+.sayme-rep > .sayme-rlbl { font-weight: 600; margin-bottom: 6px; display: block; }
+.sayme-row { border: 1px solid #c3c4c7; background: #fff; margin-bottom: 6px; border-radius: 3px; }
+.sayme-row > .sayme-rhead { display: flex; align-items: center; gap: 6px; padding: 6px 8px; background: #f6f7f7; cursor: pointer; border-radius: 3px; }
+.sayme-row.open > .sayme-rhead { border-bottom: 1px solid #dcdcde; border-radius: 3px 3px 0 0; }
+.sayme-rhead .sayme-n { color: #646970; min-width: 22px; }
+.sayme-rhead .sayme-t { flex: 1; font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.sayme-rhead button { padding: 0 6px; min-height: 24px; line-height: 22px; }
+.sayme-rbody { display: none; padding: 12px; }
+.sayme-row.open > .sayme-rbody { display: block; }
+.sayme-image { display: flex; align-items: center; gap: 10px; }
+.sayme-image .sayme-prev { width: 120px; height: 70px; background: #f0f0f1 center/contain no-repeat; border: 1px solid #dcdcde; }
+.sayme-check { display: flex; align-items: center; gap: 8px; padding: 5px 8px; border: 1px solid #dcdcde; background: #fff; margin-bottom: 4px; }
+.sayme-check.on { border-color: #2271b1; background: #f0f6fc; }
+.sayme-check .sayme-t { flex: 1; }
+.sayme-icon-prev { display: inline-block; width: 26px; height: 26px; vertical-align: middle; margin-left: 8px; color: #1f3a5f; }
+.sayme-icon-prev svg { width: 26px; height: 26px; }

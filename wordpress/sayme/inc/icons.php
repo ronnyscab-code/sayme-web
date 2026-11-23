@@ -1,0 +1,14 @@
+<?php
+/* Biblioteca de iconos (generada). */
+function sayme_icon_library() {
+	return array(
+		'i01' => array( 'label' => 'Redes de fibra óptica', 'svg' => '<svg aria-hidden="true" class="ic" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"></circle><path d="M3 12h6M15 12h6M12 3v3M12 18v3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M18.4 5.6l-2.1 2.1M7.7 16.3l-2.1 2.1"></path></svg>' ),
+		'i02' => array( 'label' => 'Redes de datos en cobre', 'svg' => '<svg aria-hidden="true" class="ic" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" viewBox="0 0 24 24"><rect height="5" width="6" x="9" y="3"></rect><rect height="5" width="6" x="2.5" y="16"></rect><rect height="5" width="6" x="15.5" y="16"></rect><path d="M12 8v4M5.5 16v-4h13v4"></path></svg>' ),
+		'i03' => array( 'label' => 'Infraestructura y canalización', 'svg' => '<svg aria-hidden="true" class="ic" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" viewBox="0 0 24 24"><path d="M13 2 4 14h7l-1 8 9-12h-7z"></path></svg>' ),
+		'i04' => array( 'label' => 'CCTV y seguridad', 'svg' => '<svg aria-hidden="true" class="ic" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" viewBox="0 0 24 24"><path d="M3 8h13l3 3v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><circle cx="10" cy="12" r="2.5"></circle><path d="M9 17v3h4"></path></svg>' ),
+		'i05' => array( 'label' => 'Redes activas Cisco y Ubiquiti', 'svg' => '<svg aria-hidden="true" class="ic" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"></circle><path d="M3 12h18M12 3c3 3 3 15 0 18M12 3c-3 3-3 15 0 18"></path></svg>' ),
+		'i06' => array( 'label' => 'WiFi empresarial e industrial', 'svg' => '<svg aria-hidden="true" class="ic" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" viewBox="0 0 24 24"><path d="M2.5 9a14 14 0 0 1 19 0M5.5 12.5a9.5 9.5 0 0 1 13 0M8.6 16a5 5 0 0 1 6.8 0"></path><circle cx="12" cy="19.2" r="1.2"></circle></svg>' ),
+		'i07' => array( 'label' => 'Control de acceso', 'svg' => '<svg aria-hidden="true" class="ic" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" viewBox="0 0 24 24"><rect height="14" rx="2" width="18" x="3" y="5"></rect><circle cx="9" cy="11" r="2.2"></circle><path d="M5.5 16c.7-2 5.3-2 6 0M14 10h4M14 13.5h3"></path></svg>' ),
+		'i08' => array( 'label' => 'Equipamiento TI', 'svg' => '<svg aria-hidden="true" class="ic" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" viewBox="0 0 24 24"><rect height="12" rx="1.5" width="18" x="3" y="4"></rect><path d="M8 20h8M12 16v4"></path></svg>' ),
+	);
+}

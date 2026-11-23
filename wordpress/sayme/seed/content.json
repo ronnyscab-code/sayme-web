@@ -1,0 +1,1605 @@
+{
+ "options": {
+  "whatsapp": "56998951625",
+  "wa_message": "Hola SAYME, quisiera cotizar un proyecto.",
+  "email": "sayme@sayme.cl",
+  "phone_label": "+56 9 9895 1625",
+  "phone_tel": "+56998951625",
+  "address": "Av. Central N° 1424, Independencia, Santiago, Chile",
+  "linkedin": "https://www.linkedin.com/company/145458774/",
+  "linkedin_cover": "assets/img/linkedin-portada.jpg",
+  "footer_text": "Impulsamos la innovación industrial y tecnológica. Ingeniería, tecnología y experiencia desde 2001.",
+  "footer_tagline": "Ingeniería, Tecnología y Experiencia",
+  "copyright": "© 2026 SAYME LTDA. Todos los derechos reservados.",
+  "maps": "https://www.google.com/maps/search/?api=1&query=Av.+Central+1424+Independencia+Santiago+Chile",
+  "home_logo": "assets/img/home/img01.png",
+  "logo": "assets/img/logo-sayme.png"
+ },
+ "services": [
+  {
+   "slug": "fibra-optica",
+   "title": "Redes de fibra óptica",
+   "order": 0,
+   "data": {
+    "card": {
+     "icon": "i01",
+     "home_text": "Fusión, conectorización y certificación OS1/OS2 y OM3/OM4 con OTDR.",
+     "home_tag": "OS2 · OM3 · OM4",
+     "home_color": "navy",
+     "home_title": "Fibra óptica",
+     "footer_label": "Fibra"
+    },
+    "hero": {
+     "title": "Fibra óptica *certificada*",
+     "lead": "Provisión, fusión y certificación de enlaces monomodo (OS1/OS2) y multimodo (OM3/OM4), medidos con OTDR, OPM y microscopios.",
+     "chips": "OS1 / OS2\nOM3 / OM4\nOTDR\nCertificado FOA",
+     "cta_label": "Cotizar este servicio",
+     "wa_text": "Hola SAYME, quisiera cotizar una red de fibra óptica.",
+     "wa_label": "WhatsApp",
+     "scene": "fusion",
+     "scene_label": "Fusionadora de fibra óptica en 3D con bandeja de empalmes: la pantalla muestra el destello de la fusión."
+    },
+    "sections": [
+     {
+      "kicker": "Qué hacemos",
+      "title": "Del tendido a la certificación",
+      "sub": "Cada enlace se suministra, instala, funde y mide antes de entregarse, con personal certificado FOA.",
+      "alt": false,
+      "blocks": [
+       {
+        "type": "cards",
+        "cols": "g3",
+        "items": [
+         {
+          "tag": "article",
+          "icon": "i01",
+          "title": "Suministro e instalación",
+          "text": "Cable de fibra óptica monomodo y multimodo, con canalización según el trazado del proyecto.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         },
+         {
+          "tag": "article",
+          "icon": "i01",
+          "title": "Fusión y conectorización",
+          "text": "Empalme por fusión, conectorización, mufas de empalme y cabeceras para cada enlace.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         },
+         {
+          "tag": "article",
+          "icon": "i01",
+          "title": "Certificación y medición",
+          "text": "Medición de alta precisión con equipos OTDR, OPM y microscopios, con atenuación certificada en todo el trazado.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "kicker": "Estándares",
+      "title": "Monomodo o multimodo",
+      "sub": "La elección depende de la distancia y del uso del enlace.",
+      "alt": true,
+      "blocks": [
+       {
+        "type": "two",
+        "left": {
+         "heading": "",
+         "badge": "",
+         "table": "Tipo | Estándar | Uso habitual\nMonomodo | OS1 / OS2 | Largas distancias y enlaces troncales\nMultimodo | OM3 / OM4 | Distancias cortas, backbones y salas de equipos",
+         "text": "",
+         "note": "En la planta desalinizadora de Aconcagua se certificaron 4 enlaces SM OS2 sobre 5 km de trazado.",
+         "list": ""
+        },
+        "right": {
+         "heading": "",
+         "badge": "",
+         "table": "",
+         "text": "",
+         "note": "",
+         "list": "<b>Equipos de precisión:</b> OTDR, OPM y microscopios de inspección.\n<b>Personal certificado FOA:</b> instalación, empalme, pruebas y medición de enlaces.\n<b>Entrega documentada:</b> resultados de la certificación de cada enlace.\n<b>Anillos y backbones:</b> alta disponibilidad para infraestructura crítica."
+        }
+       }
+      ]
+     },
+     {
+      "kicker": "Certificación",
+      "title": "Respaldo certificado",
+      "sub": "",
+      "alt": false,
+      "blocks": [
+       {
+        "type": "certs",
+        "cols": "minmax(0,420px)",
+        "items": [
+         {
+          "img": "assets/img/certificaciones/foa.jpg",
+          "alt": "Fiber Optic Association",
+          "badge": "",
+          "title": "FOA",
+          "text": "Fiber Optic Association. Instalación, empalme, pruebas y medición de enlaces de fibra óptica monomodo y multimodo."
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "show_refs": true,
+    "refs_head": {
+     "kicker": "Referencias",
+     "title": "Proyectos donde lo aplicamos",
+     "sub": "Obras ejecutadas por SAYME con esta especialidad."
+    },
+    "refs": [
+     "dgac",
+     "incendios",
+     "aconcagua"
+    ],
+    "others_head": {
+     "kicker": "Servicios",
+     "title": "Otras especialidades",
+     "sub": "Una sola empresa para toda la infraestructura de tecnología.",
+     "alt": true
+    },
+    "band": {
+     "kicker": "Hablemos",
+     "title": "¿Tienes un proyecto en mente?",
+     "text": "Cuéntanos qué necesitas y te respondemos con una propuesta técnico-económica.",
+     "btn1": "Solicitar cotización",
+     "btn2": "Escribir por WhatsApp",
+     "wa": "Hola SAYME, quisiera cotizar una red de fibra óptica."
+    },
+    "seo_title": "Redes de fibra óptica | SAYME",
+    "seo_desc": "Suministro, instalación, fusión y certificación de fibra óptica monomodo OS1/OS2 y multimodo OM3/OM4 con OTDR, OPM y personal certificado FOA."
+   }
+  },
+  {
+   "slug": "redes-de-datos",
+   "title": "Redes de datos en cobre",
+   "order": 1,
+   "data": {
+    "card": {
+     "icon": "i02",
+     "home_text": "Cableado estructurado Cat-6 y Cat-6A certificado con Fluke.",
+     "home_tag": "Cat-6 · Cat-6A",
+     "home_color": "slate",
+     "home_title": "Redes de datos en cobre",
+     "footer_label": "Datos"
+    },
+    "hero": {
+     "title": "Redes de datos *certificadas*",
+     "lead": "Canalización, tendido y certificación de redes Cat-6 y Cat-6A con equipos Fluke calibrados, más provisión de switches, access points y gabinetes.",
+     "chips": "Cat-6\nCat-6A\nFluke\nGabinetes y racks",
+     "cta_label": "Cotizar este servicio",
+     "wa_text": "Hola SAYME, quisiera cotizar una red de datos Cat-6 o Cat-6A.",
+     "wa_label": "WhatsApp",
+     "scene": "fluke",
+     "scene_label": "Certificación de un punto de red: Fluke emisor y receptor con el mapa de cableado aprobado en pantalla."
+    },
+    "sections": [
+     {
+      "kicker": "Estándares",
+      "title": "Rendimiento avanzado",
+      "sub": "Los estándares de cobre que instalamos y certificamos.",
+      "alt": false,
+      "blocks": [
+       {
+        "type": "table",
+        "rows": "Categoría | Velocidad | Ancho de banda\nCat-6 | 1 Gbps* | 250 MHz\nCat-6A | 10 Gbps | 500 MHz"
+       },
+       {
+        "type": "note",
+        "text": "* Cat-6 alcanza 10 Gbps en tramos de hasta 55 m."
+       }
+      ]
+     },
+     {
+      "kicker": "Proceso",
+      "title": "Alcance técnico",
+      "sub": "De la canalización a la certificación final.",
+      "alt": true,
+      "blocks": [
+       {
+        "type": "steps",
+        "n": "4",
+        "items": [
+         {
+          "title": "Canalización",
+          "text": "Instalación y demarcación de ductos según el trazado métrico del proyecto."
+         },
+         {
+          "title": "Tendido",
+          "text": "Tendido de cables calibrado según las distancias y volúmenes requeridos."
+         },
+         {
+          "title": "Montaje",
+          "text": "Montaje y conexión de equipos de red en gabinetes y racks."
+         },
+         {
+          "title": "Certificación final",
+          "text": "Certificación especializada con equipos calibrados y validación del cumplimiento."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "kicker": "Certificación punto a punto",
+      "title": "Redes seguras desde el cable",
+      "sub": "Una red es segura si el enlace físico está certificado. Cada punto se prueba con un certificador Fluke (emisor) y una unidad remota (receptor); la pantalla muestra el mapa de cableado y el resultado PASS.",
+      "alt": false,
+      "blocks": [
+       {
+        "type": "fluke",
+        "left": "Mapa de cableado: continuidad pin a pin, sin cruces ni pares abiertos.\nMedición de longitud y desempeño del enlace permanente.\nInforme con resultado PASS por cada punto de red.",
+        "right": "Detecta fallas antes de la puesta en marcha.\nGarantiza que el cobre soporta Cat-6 / Cat-6A.\nBase física para la capa activa y el firewall.",
+        "caption": "Pantalla del certificador",
+        "aria": "Pantalla del certificador Fluke con el mapa de cableado y resultado PASS"
+       }
+      ]
+     },
+     {
+      "kicker": "Garantía",
+      "title": "Certificación Fluke",
+      "sub": "Equipos debidamente calibrados garantizan el cumplimiento de estándares internacionales, eliminando puntos de falla antes de la puesta en marcha.",
+      "alt": false,
+      "blocks": [
+       {
+        "type": "two",
+        "left": {
+         "heading": "",
+         "badge": "✓ Resultado PASS en cada enlace",
+         "table": "",
+         "text": "",
+         "note": "Validación rigurosa de integridad y ancho de banda con equipos FLUKE certificados.",
+         "list": ""
+        },
+        "right": {
+         "heading": "",
+         "badge": "",
+         "table": "",
+         "text": "",
+         "note": "",
+         "list": "Provisión de switches administrables y access points.\nGabinetes y racks para la sala de equipos.\nRedes certificadas listas para la capa activa Cisco."
+        }
+       }
+      ]
+     }
+    ],
+    "show_refs": true,
+    "refs_head": {
+     "kicker": "Referencias",
+     "title": "Proyectos donde lo aplicamos",
+     "sub": "Obras ejecutadas por SAYME con esta especialidad."
+    },
+    "refs": [
+     "mineria",
+     "amb"
+    ],
+    "others_head": {
+     "kicker": "Servicios",
+     "title": "Otras especialidades",
+     "sub": "Una sola empresa para toda la infraestructura de tecnología.",
+     "alt": true
+    },
+    "band": {
+     "kicker": "Hablemos",
+     "title": "¿Tienes un proyecto en mente?",
+     "text": "Cuéntanos qué necesitas y te respondemos con una propuesta técnico-económica.",
+     "btn1": "Solicitar cotización",
+     "btn2": "Escribir por WhatsApp",
+     "wa": "Hola SAYME, quisiera cotizar una red de datos Cat-6 o Cat-6A."
+    },
+    "seo_title": "Redes de datos en cobre | SAYME",
+    "seo_desc": "Canalización, tendido y certificación de redes de datos Cat-6 y Cat-6A con equipos Fluke, y provisión de switches, access points y gabinetes."
+   }
+  },
+  {
+   "slug": "infraestructura-canalizacion",
+   "title": "Infraestructura y canalización",
+   "order": 2,
+   "data": {
+    "card": {
+     "icon": "i03",
+     "home_text": "Canalización EMT, CAG y PVC SCH 40/80 para proteger fibra, datos y CCTV.",
+     "home_tag": "EMT · CAG · PVC",
+     "home_color": "slate",
+     "home_title": "Infraestructura y canalización",
+     "footer_label": ""
+    },
+    "hero": {
+     "title": "Infraestructura y *canalización*",
+     "lead": "Redes eléctricas complementarias y canalización industrializada en EMT, CAG y conduit PVC SCH 40/80 para alimentar y proteger fibra, datos y CCTV.",
+     "chips": "EMT\nCAG\nPVC SCH 40/80\nRMC",
+     "cta_label": "Cotizar este servicio",
+     "wa_text": "Hola SAYME, quisiera cotizar canalización e infraestructura eléctrica.",
+     "wa_label": "WhatsApp",
+     "scene": "canal",
+     "scene_label": "Canalización metálica y PVC en 3D con caja de paso."
+    },
+    "sections": [
+     {
+      "kicker": "Canalización",
+      "title": "Canalización especializada",
+      "sub": "Soluciones de conducción robustas para ambientes comerciales e industriales.",
+      "alt": false,
+      "blocks": [
+       {
+        "type": "cards",
+        "cols": "g3",
+        "items": [
+         {
+          "tag": "article",
+          "icon": "i03",
+          "title": "Tuberías EMT",
+          "text": "Acero electrogalvanizado para canalizaciones interiores y de alto desempeño.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         },
+         {
+          "tag": "article",
+          "icon": "i03",
+          "title": "Sistemas CAG",
+          "text": "Acero galvanizado para ambientes industriales exigentes.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         },
+         {
+          "tag": "article",
+          "icon": "i03",
+          "title": "Conduit PVC SCH 40 / 80",
+          "text": "Máxima protección del cableado en tendidos enterrados y en obra.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         },
+         {
+          "tag": "article",
+          "icon": "i03",
+          "title": "Tuberías RMC",
+          "text": "Tubería metálica rígida para tramos que requieren mayor resistencia.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         },
+         {
+          "tag": "article",
+          "icon": "i03",
+          "title": "Banco de ductos",
+          "text": "Ejecución de bancos de ductos y escalerillas para tendidos troncales.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         },
+         {
+          "tag": "article",
+          "icon": "i03",
+          "title": "Demarcación",
+          "text": "Instalación y demarcación según el trazado métrico del proyecto.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "kicker": "Energía",
+      "title": "Redes eléctricas complementarias",
+      "sub": "La energía que necesitan los sistemas de comunicaciones, diseñada junto con ellos.",
+      "alt": true,
+      "blocks": [
+       {
+        "type": "two",
+        "left": {
+         "heading": "",
+         "badge": "",
+         "table": "",
+         "text": "",
+         "note": "",
+         "list": "<b>Soporte crítico:</b> redes eléctricas diseñadas específicamente para alimentar sistemas de fibra óptica, datos y CCTV.\n<b>Suministro integral:</b> provisión completa de materiales certificados para instalaciones industriales y comerciales."
+        },
+        "right": {
+         "heading": "",
+         "badge": "",
+         "table": "",
+         "text": "",
+         "note": "",
+         "list": "<b>Infraestructura:</b> montaje de tableros, protecciones y canalizaciones según la normativa técnica vigente.\n<b>Sistemas complementarios:</b> respaldo de energía y alimentación PoE para equipos de red."
+        }
+       }
+      ]
+     }
+    ],
+    "show_refs": true,
+    "refs_head": {
+     "kicker": "Referencias",
+     "title": "Proyectos donde lo aplicamos",
+     "sub": "Obras ejecutadas por SAYME con esta especialidad."
+    },
+    "refs": [
+     "incendios",
+     "aconcagua"
+    ],
+    "others_head": {
+     "kicker": "Servicios",
+     "title": "Otras especialidades",
+     "sub": "Una sola empresa para toda la infraestructura de tecnología.",
+     "alt": true
+    },
+    "band": {
+     "kicker": "Hablemos",
+     "title": "¿Tienes un proyecto en mente?",
+     "text": "Cuéntanos qué necesitas y te respondemos con una propuesta técnico-económica.",
+     "btn1": "Solicitar cotización",
+     "btn2": "Escribir por WhatsApp",
+     "wa": "Hola SAYME, quisiera cotizar canalización e infraestructura eléctrica."
+    },
+    "seo_title": "Infraestructura y canalización | SAYME",
+    "seo_desc": "Canalización industrializada en EMT, CAG, RMC y conduit PVC SCH 40/80, y redes eléctricas complementarias para sistemas de fibra, datos y CCTV."
+   }
+  },
+  {
+   "slug": "cctv-seguridad",
+   "title": "CCTV y seguridad",
+   "order": 3,
+   "data": {
+    "card": {
+     "icon": "i04",
+     "home_text": "Redes de videovigilancia sobre plataforma Bosch BVMS.",
+     "home_tag": "Bosch BVMS",
+     "home_color": "teal",
+     "home_title": "CCTV y seguridad",
+     "footer_label": "CCTV"
+    },
+    "hero": {
+     "title": "CCTV y *seguridad*",
+     "lead": "Diseño integral de redes de videovigilancia multiproveedor, almacenamiento de alta capacidad y centros de monitoreo, con certificación Bosch BVMS Expert.",
+     "chips": "Bosch BVMS Expert\nMultiproveedor\nPoE / PoE+\nAlta resolución",
+     "cta_label": "Cotizar este servicio",
+     "wa_text": "Hola SAYME, quisiera cotizar un sistema de CCTV.",
+     "wa_label": "WhatsApp",
+     "scene": "camera",
+     "scene_label": "Cámara de videovigilancia en 3D que sigue el cursor."
+    },
+    "sections": [
+     {
+      "kicker": "Qué hacemos",
+      "title": "Seguridad y monitoreo",
+      "sub": "Integración y configuración de redes de videovigilancia de alta gama.",
+      "alt": false,
+      "blocks": [
+       {
+        "type": "cards",
+        "cols": "g3",
+        "items": [
+         {
+          "tag": "article",
+          "icon": "i04",
+          "title": "Redes CCTV multiproveedor",
+          "text": "Diseño integral de la red de cámaras, con especialización en plataformas Bosch.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         },
+         {
+          "tag": "article",
+          "icon": "i04",
+          "title": "Almacenamiento de alta capacidad",
+          "text": "Dimensionamiento del almacenamiento para la retención de video que exige cada proyecto.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         },
+         {
+          "tag": "article",
+          "icon": "i04",
+          "title": "Centros de monitoreo",
+          "text": "Salas de control y puestos de monitoreo con gestión de video centralizada.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "kicker": "Certificación",
+      "title": "Respaldo Bosch",
+      "sub": "Configuración y diseño de sistemas de videovigilancia y gestión de video Bosch.",
+      "alt": true,
+      "blocks": [
+       {
+        "type": "certs",
+        "cols": "minmax(0,420px)",
+        "items": [
+         {
+          "img": "",
+          "alt": "",
+          "badge": "BVMS",
+          "title": "Bosch BVMS Expert",
+          "text": "Bosch Video Management System Technical, nivel Expert. Diseño y configuración de videovigilancia y gestión de video Bosch. Vigente hasta 12/2027."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "kicker": "Integración",
+      "title": "Una red para video, acceso y alarmas",
+      "sub": "",
+      "alt": false,
+      "blocks": [
+       {
+        "type": "two",
+        "left": {
+         "heading": "",
+         "badge": "",
+         "table": "",
+         "text": "",
+         "note": "",
+         "list": "<b>PoE / PoE+</b> para cámaras, lectores y cerraduras.\n<b>Integración</b> con control de acceso y sistemas de alarma."
+        },
+        "right": {
+         "heading": "",
+         "badge": "",
+         "table": "",
+         "text": "",
+         "note": "",
+         "list": "<b>Alta disponibilidad</b> y respaldo de energía.\n<b>Cableado certificado</b> Cat-6 / Cat-6A y fibra óptica."
+        }
+       }
+      ]
+     }
+    ],
+    "show_refs": true,
+    "refs_head": {
+     "kicker": "Referencias",
+     "title": "Proyectos donde lo aplicamos",
+     "sub": "Obras ejecutadas por SAYME con esta especialidad."
+    },
+    "refs": [
+     "amb",
+     "mineria"
+    ],
+    "others_head": {
+     "kicker": "Servicios",
+     "title": "Otras especialidades",
+     "sub": "Una sola empresa para toda la infraestructura de tecnología.",
+     "alt": true
+    },
+    "band": {
+     "kicker": "Hablemos",
+     "title": "¿Tienes un proyecto en mente?",
+     "text": "Cuéntanos qué necesitas y te respondemos con una propuesta técnico-económica.",
+     "btn1": "Solicitar cotización",
+     "btn2": "Escribir por WhatsApp",
+     "wa": "Hola SAYME, quisiera cotizar un sistema de CCTV."
+    },
+    "seo_title": "CCTV y seguridad | SAYME",
+    "seo_desc": "Diseño de redes CCTV multiproveedor, almacenamiento de alta capacidad y centros de monitoreo con certificación Bosch BVMS Expert."
+   }
+  },
+  {
+   "slug": "redes-cisco",
+   "title": "Redes activas Cisco y Ubiquiti",
+   "order": 4,
+   "data": {
+    "card": {
+     "icon": "i05",
+     "home_text": "Switching, routing, firewall y WiFi con la plataforma que cada proyecto necesita.",
+     "home_tag": "Cisco · Ubiquiti",
+     "home_color": "navy",
+     "home_title": "Redes activas Cisco y Ubiquiti",
+     "footer_label": ""
+    },
+    "hero": {
+     "title": "Redes activas *Cisco y Ubiquiti*",
+     "lead": "Diseñamos y ponemos en marcha la capa activa con Cisco o Ubiquiti según lo que cada proyecto necesita, con firewall, segmentación y profesionales certificados Cisco CCNA y Enterprise Core, sobre infraestructura física certificada.",
+     "chips": "Cisco\nUbiquiti\nFirewall\nLAN / WAN",
+     "cta_label": "Cotizar este servicio",
+     "wa_text": "Hola SAYME, quisiera cotizar redes activas Cisco (switching, routing o seguridad).",
+     "wa_label": "WhatsApp",
+     "scene": "lab",
+     "scene_label": "Laboratorio de red en 3D: Internet, firewall, core Cisco, switch y access point Ubiquiti. Los paquetes de datos recorren la topología y el firewall bloquea el tráfico no autorizado."
+    },
+    "sections": [
+     {
+      "kicker": "Beneficios",
+      "title": "Cisco y Ubiquiti: elegimos la plataforma que le conviene",
+      "sub": "Las dos marcas resuelven necesidades distintas. Se dimensiona cada proyecto con la que da el mejor resultado.",
+      "alt": false,
+      "blocks": [
+       {
+        "type": "cards",
+        "cols": "g2",
+        "items": [
+         {
+          "tag": "div",
+          "icon": "",
+          "title": "Cisco: control y seguridad empresarial",
+          "text": "Para redes críticas, de múltiples sedes y alta exigencia.",
+          "list": "Segmentación avanzada con VLAN, ACL y 802.1X.\nAlta disponibilidad y redundancia en el núcleo de red.\nGestión centralizada y automatización.",
+          "link": "",
+          "more": "",
+          "color": ""
+         },
+         {
+          "tag": "div",
+          "icon": "",
+          "title": "Ubiquiti: simplicidad y costo eficiente",
+          "text": "Para sitios medianos, WiFi de alta densidad y despliegues rápidos.",
+          "list": "Administración unificada de switches y access points en una sola consola.\nExcelente relación costo-beneficio por puerto y por punto de acceso.\nInstalación y ampliación rápidas.",
+          "link": "",
+          "more": "",
+          "color": ""
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "kicker": "Topología",
+      "title": "Laboratorio: cómo viajan los datos",
+      "sub": "En el modelo 3D de arriba, el tráfico autorizado (verde) cruza el firewall, el core Cisco y el switch y access point Ubiquiti hasta los equipos. El tráfico no autorizado (rojo) se bloquea en el firewall.",
+      "alt": true,
+      "blocks": []
+     },
+     {
+      "kicker": "Capacidades",
+      "title": "Qué cubre la certificación Cisco",
+      "sub": "",
+      "alt": false,
+      "blocks": [
+       {
+        "type": "cards",
+        "cols": "g3",
+        "items": [
+         {
+          "tag": "article",
+          "icon": "i05",
+          "title": "Redes LAN / WAN",
+          "text": "Switching (VLAN, STP, EtherChannel), routing OSPF / EIGRP / BGP y alta disponibilidad HSRP / VRRP.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         },
+         {
+          "tag": "article",
+          "icon": "i05",
+          "title": "WiFi empresarial",
+          "text": "Site survey, diseño de cobertura, controladoras WLC, puntos de acceso, roaming y seguridad WPA3 / 802.1X.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         },
+         {
+          "tag": "article",
+          "icon": "i05",
+          "title": "Control de acceso",
+          "text": "Lectores y controladoras IP, cerraduras y credenciales sobre una red segmentada con PoE+, integrados a CCTV y alarmas.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         },
+         {
+          "tag": "article",
+          "icon": "i05",
+          "title": "Seguridad de red",
+          "text": "ACL, VPN IPsec, 802.1X (NAC), hardening de equipos, DHCP snooping, DAI y port-security.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         },
+         {
+          "tag": "article",
+          "icon": "i05",
+          "title": "Servicios de red",
+          "text": "DHCP, DNS, NAT, NTP, QoS e IPv6; monitoreo con SNMP, Syslog y NetFlow.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         },
+         {
+          "tag": "article",
+          "icon": "i05",
+          "title": "Automatización y SDN",
+          "text": "SD-WAN, SD-Access, Catalyst Center, Python y APIs REST / NETCONF.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "kicker": "Diseño",
+      "title": "Arquitectura integrada",
+      "sub": "Una red para todos los servicios.",
+      "alt": true,
+      "blocks": [
+       {
+        "type": "arch",
+        "rows": "Capa física certificada | Fibra óptica OS1/OS2 y OM3/OM4 ; Cobre Cat-6 / Cat-6A (Fluke) ; Canalización EMT, CAG y PVC\nCore y distribución | L3, OSPF / BGP, HSRP ; Alta disponibilidad ; Switching de acceso PoE+\nServicios sobre la red | WiFi: WLC y puntos de acceso ; Seguridad: ACL y VPN ; Cámaras CCTV IP (Bosch) ; Lectores y controladoras\nGestión y seguridad | Catalyst Center ; SNMP, Syslog y NetFlow ; Respaldos y monitoreo ; Automatización con Python"
+       }
+      ]
+     },
+     {
+      "kicker": "Respaldo",
+      "title": "Profesionales certificados",
+      "sub": "",
+      "alt": false,
+      "blocks": [
+       {
+        "type": "certs",
+        "cols": "repeat(2,minmax(0,1fr))",
+        "items": [
+         {
+          "img": "assets/img/certificaciones/cisco-ccna.jpg",
+          "alt": "Cisco Certified CCNA",
+          "badge": "",
+          "title": "Cisco CCNA",
+          "text": "Cisco Certified Network Associate. Switching, routing, WiFi, seguridad y automatización de redes empresariales."
+         },
+         {
+          "img": "assets/img/certificaciones/cisco-enterprise-core.jpg",
+          "alt": "Cisco Certified Specialist Enterprise Core",
+          "badge": "",
+          "title": "Cisco Enterprise Core",
+          "text": "Cisco Certified Specialist, Enterprise Core. Arquitectura empresarial, redes definidas por software, WiFi y seguridad avanzada."
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "show_refs": true,
+    "refs_head": {
+     "kicker": "Referencias",
+     "title": "Proyectos donde lo aplicamos",
+     "sub": "Obras ejecutadas por SAYME con esta especialidad."
+    },
+    "refs": [
+     "amb",
+     "mineria"
+    ],
+    "others_head": {
+     "kicker": "Servicios",
+     "title": "Otras especialidades",
+     "sub": "Una sola empresa para toda la infraestructura de tecnología.",
+     "alt": true
+    },
+    "band": {
+     "kicker": "Hablemos",
+     "title": "¿Tienes un proyecto en mente?",
+     "text": "Cuéntanos qué necesitas y te respondemos con una propuesta técnico-económica.",
+     "btn1": "Solicitar cotización",
+     "btn2": "Escribir por WhatsApp",
+     "wa": "Hola SAYME, quisiera cotizar redes activas Cisco (switching, routing o seguridad)."
+    },
+    "seo_title": "Redes activas Cisco y Ubiquiti | SAYME",
+    "seo_desc": "Diseño, configuración y puesta en marcha de redes activas Cisco: switching, routing, WiFi, seguridad y automatización, por profesionales CCNA y Enterprise Core."
+   }
+  },
+  {
+   "slug": "wifi",
+   "title": "WiFi empresarial e industrial",
+   "order": 5,
+   "data": {
+    "card": {
+     "icon": "i06",
+     "home_text": "Site survey, diseño y despliegue de redes inalámbricas de alta densidad.",
+     "home_tag": "WiFi 5 pasos",
+     "home_color": "teal",
+     "home_title": "WiFi empresarial",
+     "footer_label": "WiFi"
+    },
+    "hero": {
+     "title": "WiFi *empresarial* e industrial",
+     "lead": "Levantamiento y site survey, diseño de cobertura y capacidad, controladoras y seguridad inalámbrica para recintos de alta exigencia.",
+     "chips": "Site survey\nWLC\nWPA3 / 802.1X\nAlta densidad",
+     "cta_label": "Cotizar este servicio",
+     "wa_text": "Hola SAYME, quisiera cotizar una red WiFi.",
+     "wa_label": "WhatsApp",
+     "scene": "wifi",
+     "scene_label": "Access point WiFi en 3D con ondas de señal."
+    },
+    "sections": [
+     {
+      "kicker": "Proceso",
+      "title": "Cinco etapas, de la medición a la operación",
+      "sub": "",
+      "alt": false,
+      "blocks": [
+       {
+        "type": "steps",
+        "n": "5",
+        "items": [
+         {
+          "title": "Levantamiento y site survey",
+          "text": "Predictivo y en terreno para dimensionar cobertura y capacidad."
+         },
+         {
+          "title": "Diseño de cobertura y capacidad",
+          "text": "Canales, potencia y densidad de APs según el uso de cada recinto."
+         },
+         {
+          "title": "Controladoras y puntos de acceso",
+          "text": "WLC, CAPWAP, roaming sin cortes y VLAN por SSID."
+         },
+         {
+          "title": "Seguridad inalámbrica",
+          "text": "WPA2 / WPA3-Enterprise, 802.1X y segmentación invitados y corporativo."
+         },
+         {
+          "title": "Operación y diagnóstico",
+          "text": "Monitoreo, optimización de RF y resolución de incidencias."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "kicker": "Experiencia",
+      "title": "Referencia de grado científico",
+      "sub": "Red inalámbrica del proyecto SOFIA (NASA / FBO Aerocardal, 2023), con conectividad de baja latencia para monitoreo en tiempo real.",
+      "alt": true,
+      "blocks": [
+       {
+        "type": "two",
+        "left": {
+         "heading": "",
+         "badge": "",
+         "table": "",
+         "text": "",
+         "note": "",
+         "list": "Cobertura para aeropuertos, plantas, edificios, salud y comercio.\nDiseño sobre infraestructura física certificada."
+        },
+        "right": {
+         "heading": "",
+         "badge": "",
+         "table": "",
+         "text": "",
+         "note": "",
+         "list": "Integración con la capa activa Cisco.\nSeparación de redes de invitados y corporativa."
+        }
+       }
+      ]
+     }
+    ],
+    "show_refs": true,
+    "refs_head": {
+     "kicker": "Referencias",
+     "title": "Proyectos donde lo aplicamos",
+     "sub": "Obras ejecutadas por SAYME con esta especialidad."
+    },
+    "refs": [
+     "sofia",
+     "amb"
+    ],
+    "others_head": {
+     "kicker": "Servicios",
+     "title": "Otras especialidades",
+     "sub": "Una sola empresa para toda la infraestructura de tecnología.",
+     "alt": true
+    },
+    "band": {
+     "kicker": "Hablemos",
+     "title": "¿Tienes un proyecto en mente?",
+     "text": "Cuéntanos qué necesitas y te respondemos con una propuesta técnico-económica.",
+     "btn1": "Solicitar cotización",
+     "btn2": "Escribir por WhatsApp",
+     "wa": "Hola SAYME, quisiera cotizar una red WiFi."
+    },
+    "seo_title": "WiFi empresarial e industrial | SAYME",
+    "seo_desc": "Redes WiFi empresariales e industriales: site survey, diseño de cobertura, controladoras WLC, seguridad WPA3 y 802.1X, operación y diagnóstico."
+   }
+  },
+  {
+   "slug": "control-de-acceso",
+   "title": "Control de acceso",
+   "order": 6,
+   "data": {
+    "card": {
+     "icon": "i07",
+     "home_text": "Lectores, controladoras y registro integrados con CCTV.",
+     "home_tag": "RFID · PoE",
+     "home_color": "slate",
+     "home_title": "Control de acceso",
+     "footer_label": ""
+    },
+    "hero": {
+     "title": "Control de *acceso*",
+     "lead": "Lectores, controladoras y la red que los sostiene: segmentada, con PoE+ e integrada a CCTV y alarmas.",
+     "chips": "Lectores IP\nRFID\nPoE / PoE+\nIntegración CCTV",
+     "cta_label": "Cotizar este servicio",
+     "wa_text": "Hola SAYME, quisiera cotizar un sistema de control de acceso.",
+     "wa_label": "WhatsApp",
+     "scene": "acceso",
+     "scene_label": "Lector de tarjetas y chapa magnética en 3D."
+    },
+    "sections": [
+     {
+      "kicker": "Solución",
+      "title": "Dos mitades de una misma solución",
+      "sub": "El control de acceso funciona cuando el lector y la red están diseñados juntos.",
+      "alt": false,
+      "blocks": [
+       {
+        "type": "two",
+        "left": {
+         "heading": "Control de acceso con lectores",
+         "badge": "",
+         "table": "",
+         "text": "",
+         "note": "",
+         "list": "Lectores de tarjeta, biométricos y teclado.\nCredenciales y tarjetas de proximidad (RFID).\nControladoras de puertas y cerraduras electromagnéticas.\nPerfiles, horarios y zonas de acceso.\nRegistro de eventos y reportes de ingreso."
+        },
+        "right": {
+         "heading": "Infraestructura de red",
+         "badge": "",
+         "table": "",
+         "text": "",
+         "note": "",
+         "list": "Red dedicada y segmentada para controladoras y lectores IP.\nPoE / PoE+ para lectores, cerraduras y cámaras.\nIntegración con CCTV Bosch y sistemas de alarma.\nAlta disponibilidad y respaldo de energía.\nCableado certificado Cat-6 / Cat-6A."
+        }
+       }
+      ]
+     },
+     {
+      "kicker": "Cómo funciona",
+      "title": "Flujo de control de acceso",
+      "sub": "Cada ingreso recorre el mismo camino y queda registrado.",
+      "alt": true,
+      "blocks": [
+       {
+        "type": "flow",
+        "nodes": "Credencial\nLector\nControladora\nValidación\nRegistro"
+       }
+      ]
+     }
+    ],
+    "show_refs": true,
+    "refs_head": {
+     "kicker": "Referencias",
+     "title": "Proyectos donde lo aplicamos",
+     "sub": "Obras ejecutadas por SAYME con esta especialidad."
+    },
+    "refs": [
+     "amb"
+    ],
+    "others_head": {
+     "kicker": "Servicios",
+     "title": "Otras especialidades",
+     "sub": "Una sola empresa para toda la infraestructura de tecnología.",
+     "alt": true
+    },
+    "band": {
+     "kicker": "Hablemos",
+     "title": "¿Tienes un proyecto en mente?",
+     "text": "Cuéntanos qué necesitas y te respondemos con una propuesta técnico-económica.",
+     "btn1": "Solicitar cotización",
+     "btn2": "Escribir por WhatsApp",
+     "wa": "Hola SAYME, quisiera cotizar un sistema de control de acceso."
+    },
+    "seo_title": "Control de acceso | SAYME",
+    "seo_desc": "Control de acceso con lectores, controladoras y red segmentada con PoE+, integrado a CCTV Bosch y sistemas de alarma."
+   }
+  },
+  {
+   "slug": "equipamiento-ti",
+   "title": "Equipamiento TI",
+   "order": 7,
+   "data": {
+    "card": {
+     "icon": "i08",
+     "home_text": "Computadores, switches, access points y cámaras CCTV.",
+     "home_tag": "Venta",
+     "home_color": "navy",
+     "home_title": "Equipamiento TI",
+     "footer_label": ""
+    },
+    "hero": {
+     "title": "Equipamiento *TI*",
+     "lead": "Venta de computadores, equipos de redes de datos y fibra óptica, y cámaras de CCTV, con instalación y puesta en marcha por el mismo equipo.",
+     "chips": "Computadores\nSwitches\nAccess points\nCámaras CCTV",
+     "cta_label": "Cotizar este servicio",
+     "wa_text": "Hola SAYME, quisiera cotizar equipamiento TI.",
+     "wa_label": "WhatsApp",
+     "scene": "equipo",
+     "scene_label": "Laptop en 3D con monitor de red."
+    },
+    "sections": [
+     {
+      "kicker": "Catálogo",
+      "title": "Qué vendemos",
+      "sub": "Equipamiento seleccionado con tecnologías y materiales de alta calidad.",
+      "alt": false,
+      "blocks": [
+       {
+        "type": "cards",
+        "cols": "g3",
+        "items": [
+         {
+          "tag": "article",
+          "icon": "i08",
+          "title": "Computadores",
+          "text": "Equipos de escritorio y portátiles para oficinas, plantas y salas de control.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         },
+         {
+          "tag": "article",
+          "icon": "i08",
+          "title": "Redes de datos y fibra óptica",
+          "text": "Switches administrables de capa 2/3, access points de alta densidad, gabinetes y materiales de fibra óptica.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         },
+         {
+          "tag": "article",
+          "icon": "i08",
+          "title": "Cámaras de CCTV",
+          "text": "Cámaras y equipos de videovigilancia para redes IP, con diseño y configuración incluidos.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "kicker": "Proceso",
+      "title": "Del suministro a la puesta en marcha",
+      "sub": "",
+      "alt": true,
+      "blocks": [
+       {
+        "type": "steps",
+        "n": "3",
+        "items": [
+         {
+          "title": "Ingeniería y diseño",
+          "text": "Ingeniería de detalle y diseño de soluciones TI adaptadas a cada cliente."
+         },
+         {
+          "title": "Selección de materiales y tecnología",
+          "text": "Materiales y tecnologías de alta calidad."
+         },
+         {
+          "title": "Ejecución y puesta en marcha",
+          "text": "Montaje e implementación de sistemas industriales y comerciales."
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "show_refs": false,
+    "refs_head": {},
+    "refs": [],
+    "others_head": {
+     "kicker": "Servicios",
+     "title": "Otras especialidades",
+     "sub": "Una sola empresa para toda la infraestructura de tecnología.",
+     "alt": true
+    },
+    "band": {
+     "kicker": "Hablemos",
+     "title": "¿Tienes un proyecto en mente?",
+     "text": "Cuéntanos qué necesitas y te respondemos con una propuesta técnico-económica.",
+     "btn1": "Solicitar cotización",
+     "btn2": "Escribir por WhatsApp",
+     "wa": "Hola SAYME, quisiera cotizar equipamiento TI."
+    },
+    "seo_title": "Equipamiento TI | SAYME",
+    "seo_desc": "Venta de equipamiento TI: computadores, equipos de redes de datos y fibra óptica y cámaras de CCTV, con instalación y puesta en marcha."
+   }
+  }
+ ],
+ "projects": [
+  {
+   "slug": "amb",
+   "title": "Aeropuerto Arturo Merino Benítez",
+   "order": 0,
+   "data": {
+    "kicker": "Nuevo Pudahuel · 2017 a hoy",
+    "badge": "Fibra · CCTV · WiFi",
+    "text": "Participación activa en la construcción del nuevo terminal internacional (T2M) y la remodelación integral del terminal nacional (T1M).",
+    "bullets": "Backbone de fibra óptica a gran escala\nCCTV sobre plataforma Bosch\nIntegración de redes de datos corporativas\nCobertura inalámbrica para operaciones críticas",
+    "img": "assets/img/proyectos/aeropuerto-t2.jpg",
+    "aria": "Aeropuerto Arturo Merino Benítez",
+    "kicker_home": "",
+    "text_home": "Backbone de fibra óptica, CCTV sobre plataforma Bosch, redes de datos y WiFi en el nuevo terminal T2M y la remodelación del T1M.",
+    "img_home": "assets/img/home/img02.jpg"
+   }
+  },
+  {
+   "slug": "dgac",
+   "title": "Infraestructura crítica DGAC",
+   "order": 1,
+   "data": {
+    "kicker": "DGAC (contrato Vinci & Astaldi) · Terminal T1M",
+    "badge": "40 enlaces",
+    "text": "Suministro e instalación del núcleo de comunicaciones de fibra óptica para las nuevas instalaciones de la Dirección General de Aeronáutica Civil.",
+    "bullets": "Instalación y certificación de 40 enlaces de fibra óptica, monomodo y multimodo\nProtección reforzada del cableado para garantizar continuidad operativa",
+    "img": "assets/img/proyectos/dgac-fibra.jpg",
+    "aria": "Infraestructura crítica DGAC",
+    "kicker_home": "DGAC · Terminal T1M",
+    "text_home": "Núcleo de comunicaciones de fibra óptica con 40 enlaces certificados, monomodo y multimodo, con protección reforzada del cableado.",
+    "img_home": "assets/img/home/img03.jpg"
+   }
+  },
+  {
+   "slug": "incendios",
+   "title": "Anillo troncal contra incendios",
+   "order": 2,
+   "data": {
+    "kicker": "Nuevo Pudahuel (NPU) · 2024 a 2025",
+    "badge": "20 enlaces",
+    "text": "Construcción del anillo troncal de fibra óptica dedicado al monitoreo y la seguridad contra incendios del complejo aeroportuario.",
+    "bullets": "20 enlaces de fibra óptica de alta disponibilidad\nGabinetes industriales y equipos de red asociados\nBanco de ductos, escalerillas y canalización en EMT, RMC y CAG",
+    "img": "assets/img/proyectos/anillo-incendios.jpg",
+    "aria": "Anillo troncal contra incendios",
+    "kicker_home": "Nuevo Pudahuel · 2024 a 2025",
+    "text_home": "Anillo de fibra de alta disponibilidad para el monitoreo y la seguridad contra incendios del complejo aeroportuario.",
+    "img_home": "assets/img/home/img04.jpg"
+   }
+  },
+  {
+   "slug": "sofia",
+   "title": "Proyecto SOFIA, NASA",
+   "order": 3,
+   "data": {
+    "kicker": "NASA / FBO Aerocardal · 2023",
+    "badge": "Wireless",
+    "text": "Habilitación de infraestructura de red para el Stratospheric Observatory for Infrared Astronomy (SOFIA).",
+    "bullets": "Red de datos inalámbrica de grado científico\nConectividad de baja latencia para monitoreo en tiempo real en las dependencias de FBO Aerocardal",
+    "img": "assets/img/proyectos/sofia-wifi.jpg",
+    "aria": "Proyecto SOFIA, NASA",
+    "kicker_home": "",
+    "text_home": "Red inalámbrica de grado científico para el observatorio estratosférico SOFIA, con baja latencia para monitoreo en tiempo real.",
+    "img_home": "assets/img/home/img05.jpg"
+   }
+  },
+  {
+   "slug": "aconcagua",
+   "title": "Planta desalinizadora",
+   "order": 4,
+   "data": {
+    "kicker": "Proyecto Aconcagua · 2024 a hoy",
+    "badge": "5 km",
+    "text": "Columna vertebral de comunicaciones para el control de procesos críticos de desalinización de agua a gran escala.",
+    "bullets": "4 enlaces de fibra óptica monomodo OS2 instalados, fusionados y medidos\nTrazado total operativo de 20 kilómetros\nCabeceras, mufas de empalme y certificación de atenuación en toda la extensión",
+    "img": "assets/img/proyectos/aconcagua-5km.jpg",
+    "aria": "Planta desalinizadora",
+    "kicker_home": "",
+    "text_home": "Cuatro enlaces de fibra monomodo OS2 sobre 5 km, con cabeceras, mufas y certificación de atenuación en todo el trazado.",
+    "img_home": "assets/img/home/img06.jpg"
+   }
+  },
+  {
+   "slug": "mineria",
+   "title": "Plantas de minería e industria",
+   "order": 5,
+   "data": {
+    "kicker": "Magotteaux y Sigdo Koppers · 2024 a 2025",
+    "badge": "Antofagasta · Til-Til",
+    "text": "Unificación y normalización tecnológica de instalaciones industriales críticas en distintas regiones del país.",
+    "bullets": "Redes de datos estandarizadas, suministradas, instaladas y certificadas\nCCTV de alta resolución\nEjecución simultánea en las plantas de Til-Til (zona central) y Antofagasta (zona norte)",
+    "img": "assets/img/proyectos/mineria-antofagasta.jpg",
+    "aria": "Plantas de minería e industria",
+    "kicker_home": "",
+    "text_home": "Redes de datos estandarizadas y CCTV de alta resolución, ejecutadas en simultáneo en la zona norte y la zona central.",
+    "img_home": "assets/img/home/img07.jpg"
+   }
+  }
+ ],
+ "clientes": [
+  {
+   "title": "Codelco",
+   "order": 0,
+   "data": {
+    "logo": "assets/img/home/img08.png"
+   }
+  },
+  {
+   "title": "LATAM Airlines",
+   "order": 1,
+   "data": {
+    "logo": "assets/img/home/img09.png"
+   }
+  },
+  {
+   "title": "Aeropuerto de Santiago",
+   "order": 2,
+   "data": {
+    "logo": "assets/img/home/img10.png"
+   }
+  },
+  {
+   "title": "Vinci & Astaldi",
+   "order": 3,
+   "data": {
+    "logo": ""
+   }
+  },
+  {
+   "title": "Air France",
+   "order": 4,
+   "data": {
+    "logo": "assets/img/home/img11.png"
+   }
+  },
+  {
+   "title": "Sodexo",
+   "order": 5,
+   "data": {
+    "logo": "assets/img/home/img12.png"
+   }
+  },
+  {
+   "title": "Spevi",
+   "order": 6,
+   "data": {
+    "logo": ""
+   }
+  },
+  {
+   "title": "Flesan",
+   "order": 7,
+   "data": {
+    "logo": "assets/img/home/img13.png"
+   }
+  },
+  {
+   "title": "Saba",
+   "order": 8,
+   "data": {
+    "logo": ""
+   }
+  },
+  {
+   "title": "DSP Ltda.",
+   "order": 9,
+   "data": {
+    "logo": ""
+   }
+  }
+ ],
+ "pages": [
+  {
+   "slug": "inicio",
+   "title": "Inicio",
+   "front": true,
+   "data": {
+    "seo_title": "SAYME, Infraestructura Industrial y Tecnológica",
+    "seo_desc": "Integramos tecnología, ingeniería y experiencia para entregar soluciones de TI con calidad y seguridad, desde el cable hasta la puesta en marcha.",
+    "hero": {
+     "kicker": "Santiago, Chile · Desde 2001 en el mercado chileno",
+     "title": "Impulsamos la innovación *industrial* y tecnológica",
+     "lead": "Integramos tecnología, ingeniería y experiencia para entregar soluciones de TI con calidad y seguridad, desde el cable hasta la puesta en marcha.",
+     "btn1": "Contáctanos hoy",
+     "btn2": "Conocer nuestros servicios"
+    },
+    "strip": "25+ | años, desde 2001\n250+ | proyectos ejecutados\n0 | incumplimientos en seguridad laboral\n3 | tecnologías de red: cobre, OS2, OM3/OM4",
+    "servicios": {
+     "kicker": "Servicios",
+     "title": "Redes que se instalan, se certifican y se entregan",
+     "sub": "Cada enlace se suministra, instala y certifica antes de entregarlo, para que el cliente reciba una red que ya fue medida.",
+     "foot": "También vendemos equipamiento TI: computadores, equipos de redes de datos y fibra óptica, y cámaras de CCTV, además de redes de CCTV, de acceso y de almacenamiento."
+    },
+    "soluciones": {
+     "kicker": "Soluciones",
+     "title": "De la ingeniería a la puesta en marcha",
+     "sub": "Un solo equipo acompaña el proyecto completo, sin traspasos entre diseño y obra.",
+     "items": [
+      {
+       "title": "Ingeniería y diseño",
+       "text": "Ingeniería de detalle y diseño de soluciones de TI adaptadas a cada cliente."
+      },
+      {
+       "title": "Materiales y tecnología",
+       "text": "Selección de materiales y tecnologías de alta calidad para cada entorno."
+      },
+      {
+       "title": "Ejecución y puesta en marcha",
+       "text": "Montaje e implementación de sistemas industriales y comerciales."
+      }
+     ]
+    },
+    "nosotros": {
+     "kicker": "Nosotros",
+     "title": "Por qué trabajar con SAYME",
+     "list": "Atención personalizada y soporte continuo.\nPersonal altamente calificado y con experiencia.\nMás de 25 años en los sectores industrial y comercial.\nMateriales y tecnologías de alta calidad.\nCompromiso con la seguridad y la excelencia.",
+     "kicker2": "Dónde trabajamos",
+     "title2": "Sectores",
+     "sectors": "Industria | Plantas y procesos\nMinería | Redes en faena\nComercio | Locales y oficinas"
+    },
+    "proyectos": {
+     "kicker": "Principales proyectos",
+     "title": "Infraestructura crítica ya desplegada",
+     "sub": "Aeropuertos, observatorios, plantas de agua y minería. Pasa el mouse sobre una tarjeta para inclinarla.",
+     "ids": [
+      "amb",
+      "dgac",
+      "incendios",
+      "sofia",
+      "aconcagua",
+      "mineria"
+     ]
+    },
+    "clientes": {
+     "kicker": "Clientes",
+     "title": "Empresas que confían en SAYME",
+     "sub": "Arrastra el anillo, usa las flechas del teclado o los botones para recorrerlo."
+    },
+    "contacto": {
+     "kicker": "Contacto",
+     "title": "Cuéntanos qué red necesitas"
+    }
+   }
+  },
+  {
+   "slug": "nosotros",
+   "title": "Nosotros",
+   "data": {
+    "hero": {
+     "title": "Identidad y *trayectoria*",
+     "lead": "Integramos tecnología, ingeniería y experiencia para entregar soluciones de TI con los más altos estándares de calidad industrial."
+    },
+    "strip": "25+ | años desde 2001\n250+ | proyectos ejecutados\n0 | incumplimientos en seguridad laboral\n3 | certificaciones: Cisco, FOA, Bosch",
+    "sections": [
+     {
+      "kicker": "Historia",
+      "title": "Nuestra historia",
+      "sub": "",
+      "alt": false,
+      "blocks": [
+       {
+        "type": "two",
+        "left": {
+         "heading": "",
+         "badge": "",
+         "table": "",
+         "text": "SAYME nace en Santiago el 31 de diciembre de 2001, con el objetivo de integrar y proveer tecnologías y servicios de calidad para la industria chilena.<br/><br/>Desde sus inicios, la empresa ha evolucionado, ampliando su portafolio y consolidando su presencia en los sectores industrial y comercial, siempre con un fuerte compromiso con la calidad y la seguridad.",
+         "note": "",
+         "list": ""
+        },
+        "right": {
+         "heading": "",
+         "badge": "",
+         "table": "",
+         "text": "",
+         "note": "",
+         "list": "Atención personalizada y soporte continuo.\nPersonal altamente calificado y con experiencia.\nMás de 25 años en los sectores industrial y comercial.\nMateriales y tecnologías de alta calidad.\nCompromiso con la seguridad y la excelencia."
+        },
+        "bare": true
+       }
+      ]
+     },
+     {
+      "kicker": "Pilares estratégicos",
+      "title": "Misión, visión y valores",
+      "sub": "",
+      "alt": true,
+      "blocks": [
+       {
+        "type": "cards",
+        "cols": "g3",
+        "items": [
+         {
+          "tag": "article",
+          "icon": "",
+          "title": "Misión",
+          "text": "Suministro y montaje de redes de datos, fibra óptica y seguridad con énfasis en calidad y seguridad.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         },
+         {
+          "tag": "article",
+          "icon": "",
+          "title": "Visión",
+          "text": "Ser referentes en el sector industria, reconocidos por sus altos estándares de eficiencia y confiabilidad.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         },
+         {
+          "tag": "article",
+          "icon": "",
+          "title": "Valores",
+          "text": "Compromiso, innovación, calidad, seguridad y excelencia.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "kicker": "Certificaciones",
+      "title": "Respaldo certificado",
+      "sub": "Cada solución es diseñada, instalada y certificada con profesionales acreditados en Cisco, FOA y Bosch.",
+      "alt": false,
+      "blocks": [
+       {
+        "type": "certs",
+        "cols": "",
+        "items": [
+         {
+          "img": "assets/img/certificaciones/cisco-ccna.jpg",
+          "alt": "Cisco Certified CCNA",
+          "badge": "",
+          "title": "Cisco CCNA",
+          "text": "Cisco Certified Network Associate. Switching, routing, WiFi, seguridad y automatización de redes empresariales."
+         },
+         {
+          "img": "assets/img/certificaciones/cisco-enterprise-core.jpg",
+          "alt": "Cisco Certified Specialist Enterprise Core",
+          "badge": "",
+          "title": "Cisco Enterprise Core",
+          "text": "Cisco Certified Specialist, Enterprise Core. Arquitectura empresarial, redes definidas por software, WiFi y seguridad avanzada."
+         },
+         {
+          "img": "assets/img/certificaciones/foa.jpg",
+          "alt": "Fiber Optic Association",
+          "badge": "",
+          "title": "FOA",
+          "text": "Fiber Optic Association. Instalación, empalme, pruebas y medición de enlaces de fibra óptica monomodo y multimodo."
+         },
+         {
+          "img": "",
+          "alt": "",
+          "badge": "BVMS",
+          "title": "Bosch BVMS Expert",
+          "text": "Bosch Video Management System Technical, nivel Expert. Diseño y configuración de videovigilancia y gestión de video Bosch. Vigente hasta 12/2027."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "kicker": "Sectores",
+      "title": "Sectores donde aplicamos nuestra experiencia",
+      "sub": "",
+      "alt": true,
+      "blocks": [
+       {
+        "type": "cards",
+        "cols": "g4",
+        "items": [
+         {
+          "tag": "article",
+          "icon": "",
+          "title": "Aeropuertos",
+          "text": "Terminales de pasajeros y DGAC: fibra óptica, CCTV Bosch, redes de datos y WiFi.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         },
+         {
+          "tag": "article",
+          "icon": "",
+          "title": "Minería e industria",
+          "text": "Normalización de plantas en Antofagasta y Til-Til: redes de datos certificadas y CCTV de alta resolución.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         },
+         {
+          "tag": "article",
+          "icon": "",
+          "title": "Plantas de agua",
+          "text": "Planta desalinizadora: 5 km de trazado y 4 enlaces SM OS2 certificados.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         },
+         {
+          "tag": "article",
+          "icon": "",
+          "title": "Edificios, salud y comercio",
+          "text": "Redes críticas segmentadas, WiFi de alta densidad, control de acceso con lectores y CCTV con alta disponibilidad.",
+          "list": "",
+          "link": "",
+          "more": "",
+          "color": ""
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "band": {
+     "kicker": "Hablemos",
+     "title": "¿Tienes un proyecto en mente?",
+     "text": "Cuéntanos qué necesitas y te respondemos con una propuesta técnico-económica.",
+     "btn1": "Solicitar cotización",
+     "btn2": "Escribir por WhatsApp",
+     "wa": "Hola SAYME, quisiera cotizar un proyecto."
+    },
+    "seo_title": "Nosotros | SAYME",
+    "seo_desc": "SAYME nace en Santiago en 2001 para integrar y proveer tecnologías y servicios de calidad para la industria chilena."
+   }
+  },
+  {
+   "slug": "proyectos",
+   "title": "Proyectos",
+   "data": {
+    "hero": {
+     "title": "Infraestructura crítica *ya desplegada*",
+     "lead": "Más de 250 proyectos ejecutados en infraestructura crítica e industrial. Estos son los principales."
+    },
+    "band": {
+     "kicker": "Hablemos",
+     "title": "¿Tienes un proyecto en mente?",
+     "text": "Cuéntanos qué necesitas y te respondemos con una propuesta técnico-económica.",
+     "btn1": "Solicitar cotización",
+     "btn2": "Escribir por WhatsApp",
+     "wa": "Hola SAYME, vi sus proyectos y quisiera cotizar uno."
+    },
+    "seo_title": "Proyectos | SAYME",
+    "seo_desc": "Proyectos de infraestructura crítica de SAYME en aeropuertos, observatorios, plantas de agua y minería."
+   }
+  },
+  {
+   "slug": "contacto",
+   "title": "Contacto",
+   "data": {
+    "hero": {
+     "title": "Cuéntanos qué *necesitas*",
+     "lead": "Te respondemos con una propuesta técnico-económica. También puedes escribirnos directamente por WhatsApp."
+    },
+    "placeholder": "Describe el proyecto, el lugar y los plazos.",
+    "steps_label": "Próximos pasos",
+    "steps": "<b>01 Reunión técnica:</b> levantamiento de requisitos y alcance.\n<b>02 Visita a terreno:</b> assessment de infraestructura, cobertura WiFi y canalización existente.\n<b>03 Propuesta técnico-económica:</b> diseño, cronograma y alcance certificado.\n<b>04 Ejecución y certificación:</b> despliegue, pruebas con equipos calibrados y entrega documentada.",
+    "seo_title": "Contacto | SAYME",
+    "seo_desc": "Solicita una cotización a SAYME: fibra óptica, redes de datos, WiFi, CCTV, control de acceso y más. Santiago, Chile."
+   }
+  }
+ ]
+}
