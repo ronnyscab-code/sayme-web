@@ -5,7 +5,7 @@
    - El enlace se cambia en assets/js/config.js (linkedinUrl). Sin JavaScript, los enlaces igual llevan a LinkedIn. */
 (function () {
   var C = window.SAYME_CONFIG || {};
-  var URL_LI = C.linkedinUrl || 'https://www.linkedin.com/company/145458774/';
+  var URL_LI = C.linkedinUrl || 'https://www.linkedin.com/company/sayme-ltda/';
   var COVER = C.linkedinPortada || '';   /* opcional: ruta a la portada real de LinkedIn, ej. assets/img/linkedin-portada.jpg */
 
   /* ---------- estilos (autocontenidos para que funcione igual en todas las páginas) ---------- */
